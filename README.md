@@ -23,7 +23,7 @@ softwareupdate --install-rosetta && xcode-select --install && /bin/bash -c "$(cu
 
 ### docker
 ```
-brew install docker
+brew install --cask docker
 ```
 
 ### git
