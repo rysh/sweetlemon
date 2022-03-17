@@ -53,5 +53,11 @@ WORDPRESS_DB_USER: wordpress
 WORDPRESS_DB_PASSWORD: wordpress
 ```
 
+## cocoon テーマのインストール
+[ここをの通りにやる](https://wp-cocoon.com/theme-install/)
+
+
+
+---
 参考資料
 https://docs.docker.jp/compose/wordpress.html
